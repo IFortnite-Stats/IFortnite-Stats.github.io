@@ -115,7 +115,9 @@ input {
   .searchDiv .searchSpan {
     padding: 15px;
     font-size: 10px;
-    top:5%;
+  }
+  .searchDiv {
+    top: 7%;
   }
   .stats {
     bottom: 2%;
