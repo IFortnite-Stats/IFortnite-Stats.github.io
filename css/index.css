@@ -120,9 +120,10 @@ input {
     top: 7%;
   }
   .stats {
-    position: fixed;
-    height: 80%;
+    display: block;
+    position: absolute;
+    height: 70%;
     bottom: 2%;
-    font-size: 15px;
+    font-size: 10px;
   }
 }
