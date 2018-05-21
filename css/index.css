@@ -120,6 +120,7 @@ input {
     top: 7%;
   }
   .stats {
+    height: 50%;
     bottom: 2%;
     font-size: 15px;
   }
