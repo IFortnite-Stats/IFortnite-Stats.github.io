@@ -1,1 +1,1 @@
-web: touch index.php
+web: vendor/bin/heroku-php-nginx
