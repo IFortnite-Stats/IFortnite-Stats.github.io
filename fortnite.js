@@ -6,7 +6,7 @@ request({
 	url:'https://api.fortnitetracker.com/v1/profile/pc/1lluz10n',
 	method: 'GET',
   dataType: "jsonp",
- 	headers: {"TRN-Api-Key": "d46a1e6c-77ad-42c4-8efa-e3e5129bc1ef"},
+ 	headers: {"TRN-Api-Key": "8f0042c2-e803-4380-b531-f53daa5a2e2b"},
   data: {
     key: "Wins"
   },
