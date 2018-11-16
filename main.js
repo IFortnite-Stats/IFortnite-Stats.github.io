@@ -6,7 +6,7 @@ $(function() {
     var playerName = document.getElementById("inputName").value;
     var options = {
       method: "GET",
-      url: `https://fortnite.y3n.co/v2/player/${playerName}`,
+      url: `https://api.fortnitetracker.com/v1/profile/{epic-nickname}`,
       headers: {
         'User-Agent': 'nodejs request',
         'X-Key': API_KEY
